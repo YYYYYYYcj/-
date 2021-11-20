@@ -1,0 +1,10 @@
+spring:
+  messages:
+    basename: i18n.login
+  mvc:
+    format:
+      date: yyyy-MM-dd
+
+
+  thymeleaf:
+    cache: false
